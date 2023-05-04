@@ -179,7 +179,7 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 <br /><br />
 
 ## ✍🏻 Code Convention
-
+####ESLint 
 [에어비앤비 코드 컨벤션](https://github.com/airbnb/javascript)
 
 <br /><br />
@@ -188,6 +188,8 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 
 - issue 생성 ⇒ 브랜치 생성
 <img width="50%" src="https://user-images.githubusercontent.com/93786956/236118899-74f9f8e2-a5c1-445c-9099-8772f516b36e.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93786956/236120724-751327a4-27b7-4f54-8b5f-1d97b3f65b48.png"/>
+
 
 - 해당 브랜치로 이동 후 작업 & 기능별로 커밋
 <img width="30%" src="https://user-images.githubusercontent.com/93786956/236118943-381cba3d-0e9b-4d5e-84b8-083eaa75d4b9.png"/>
@@ -205,10 +207,7 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 
 ## ❗️ branch naming convention
 
-- develop
-- feature/issue_number or Short Description
-- release/version_number
-- hotfix/issue_number or Short Description
+- develop/issue_number-Short Description
 
 <br /><br />
 
