@@ -189,10 +189,10 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 ## 📍 Gitflow 규칙
 
 - issue 생성 ⇒ 브랜치 생성
-<img width="80%" src="https://user-images.githubusercontent.com/93786956/236118899-74f9f8e2-a5c1-445c-9099-8772f516b36e.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93786956/236118899-74f9f8e2-a5c1-445c-9099-8772f516b36e.png"/>
 
 - 해당 브랜치로 이동 후 작업 & 기능별로 커밋
-<img width="80%" src="https://user-images.githubusercontent.com/93786956/236118943-381cba3d-0e9b-4d5e-84b8-083eaa75d4b9.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93786956/236118943-381cba3d-0e9b-4d5e-84b8-083eaa75d4b9.png"/>
 
 - 커밋 메세지는 컨벤션에 따라
 
@@ -200,7 +200,7 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 
 ⇒ 코드 리뷰 및 리팩토링
 - 테스트 및 merge ⇒ 오류 X, 검증 완료 시 main브랜치에 merge
-<img width="80%" src="https://user-images.githubusercontent.com/93786956/236119194-68de5a49-2a2e-451c-9c26-192b9f1a72c0.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/93786956/236119194-68de5a49-2a2e-451c-9c26-192b9f1a72c0.png"/>
 
 <br /><br />
 
