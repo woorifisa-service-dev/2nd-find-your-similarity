@@ -192,7 +192,7 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 <img width="50%" src="https://user-images.githubusercontent.com/93786956/236118899-74f9f8e2-a5c1-445c-9099-8772f516b36e.png"/>
 
 - 해당 브랜치로 이동 후 작업 & 기능별로 커밋
-<img width="50%" src="https://user-images.githubusercontent.com/93786956/236118943-381cba3d-0e9b-4d5e-84b8-083eaa75d4b9.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/93786956/236118943-381cba3d-0e9b-4d5e-84b8-083eaa75d4b9.png"/>
 
 - 커밋 메세지는 컨벤션에 따라
 
