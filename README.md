@@ -176,8 +176,6 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 * REFACTOR : 코드 리펙토링
 * DOCS : 문서 수정
 
-### **커밋 타입**
-
 <br /><br />
 
 ## ✍🏻 Code Convention
@@ -200,7 +198,7 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 
 ⇒ 코드 리뷰 및 리팩토링
 - 테스트 및 merge ⇒ 오류 X, 검증 완료 시 main브랜치에 merge
-<img width="50%" src="https://user-images.githubusercontent.com/93786956/236119194-68de5a49-2a2e-451c-9c26-192b9f1a72c0.png"/>
+<img width="70%" src="https://user-images.githubusercontent.com/93786956/236119194-68de5a49-2a2e-451c-9c26-192b9f1a72c0.png"/>
 
 <br /><br />
 
