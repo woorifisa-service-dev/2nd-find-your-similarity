@@ -1,6 +1,5 @@
 # 관상 보는 보노보노
-<div align="center">
-<br />
+
 <img width="80%" src="https://user-images.githubusercontent.com/81960250/236080184-e22c866a-eb27-4d06-9de9-1c4cea7319f4.png"/>
 
 <br /><br />
