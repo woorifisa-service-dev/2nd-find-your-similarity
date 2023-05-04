@@ -245,7 +245,7 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 
 </div>
 
-## SEO 검사
+## 유효성 검사
 ![image 3](https://user-images.githubusercontent.com/93786956/236116005-25065212-abff-4768-b21b-112e6a83b0ab.jpg)
 
 ## KDT 회고
