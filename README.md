@@ -241,6 +241,8 @@ API를 호출할 때는 검색어와 검색 조건을 Query String  형식의 �
 ## SEO 검사
 ![image 3](https://user-images.githubusercontent.com/93786956/236116005-25065212-abff-4768-b21b-112e6a83b0ab.jpg)
 
+## KDT 회고
+https://github.com/ooutta/find-your-similarity/wiki/%F0%9F%92%AD-KPT-%ED%9A%8C%EA%B3%A0
 
 <br /><br />
 
